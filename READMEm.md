@@ -10,6 +10,6 @@ __Instalar apenas o SCRIPT__
 
 ```wget https://raw.githubusercontent.com/NT-GIT-HUB/VPS-MANAGER-1.0/main/Plus; chmod 777 Plus;./Plus```
 
-__Instalar o SCRIPT e atualizar pacotes do sistema__
+__Instalar o SCRIPT e atualizar pacotes do sistema__p
 
 ```apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/NT-GIT-HUB/VPS-MANAGER-1.0/main/Plus; chmod 777 Plus;./Plus```
